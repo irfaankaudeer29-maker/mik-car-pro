@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MIK CAR PRO</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#0b1220;color:white}
+header{background:#111827;padding:30px 20px;text-align:center}
+h1{color:#00bfff;font-size:38px;margin:0}
+header p{font-size:18px}
+.hero{padding:45px 20px;text-align:center;background:linear-gradient(135deg,#0f172a,#172554)}
+.hero h2{font-size:30px}
+.container{padding:25px 15px;max-width:800px;margin:auto}
+.card{background:#111827;border-radius:15px;padding:20px;margin:15px 0}
+.card h3{color:#00bfff}
+.btn{display:inline-block;padding:14px 22px;margin:8px;border-radius:10px;text-decoration:none;color:white;font-weight:bold}
+.whatsapp{background:#25D366}
+.call{background:#2563eb}
+footer{text-align:center;padding:25px;background:#111827;color:#aaa}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>🚗 MIK CAR PRO</h1>
+<p>Car Accessories • Quality • Home Delivery 🚚</p>
+</header>
+
+<section class="hero">
+<h2>Your Car, Your Style</h2>
+<p>Accessories available for many popular car brands.</p>
+<a class="btn whatsapp" href="https://wa.me/23059293647">WhatsApp Us</a>
+<a class="btn call" href="tel:+23059293647">📞 Call 59293647</a>
+</section>
+
+<div class="container">
+
+<div class="card">
+<h3>🚘 Available Brands</h3>
+<p>Nissan • Toyota • Mercedes • BMW • Audi • Proton • Honda • Mitsubishi</p>
+</div>
+
+<div class="card">
+<h3>🛠️ Car Accessories</h3>
+<p>Car accessories and products available. Contact us for prices and availability.</p>
+</div>
+
+<div class="card">
+<h3>🚚 Home Delivery</h3>
+<p>Home delivery available in Mauritius.</p>
+</div>
+
+<div class="card">
+<h3>📲 Order Now</h3>
+<p>WhatsApp or call us for your order.</p>
+<a class="btn whatsapp" href="https://wa.me/23059293647">Order on WhatsApp</a>
+</div>
+
+</div>
+
+<footer>
+MIK CAR PRO © 2026<br>
+📞 59293647
+</footer>
+
+</body>
+</html>
